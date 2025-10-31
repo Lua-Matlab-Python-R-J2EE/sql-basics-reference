@@ -8,11 +8,12 @@ A comprehensive reference repository for SQL fundamentals, combined with a sampl
 
 Lua-Matlab-Python-R-J2EE/sql-basics-reference/
 ├── DB_schema/
-│ ├── moviesdb.dbml           # DBML file defining the movies database schema
-│ ├── moviesdb.md             # Markdown documentation of the database schema
-│ └── moviesdb.png            # ER diagram of the database
-├── sql-basics-reference.sql  # SQL tutorial and comprehensive reference guide
-└── README.md                 # Project overview and instructions
+│   ├── moviesdb.dbml
+│   ├── moviesdb.md
+│   └── moviesdb.png
+├── sql-basics-reference.sql
+└── README.md
+
 
 ---
 

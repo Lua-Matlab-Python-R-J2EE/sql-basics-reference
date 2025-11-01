@@ -9,7 +9,7 @@ A comprehensive reference repository for SQL fundamentals, combined with a sampl
 ```text
 Lua-Matlab-Python-R-J2EE/sql-basics-reference/
 ├── DB_schema/
-│   ├── moviesdb.dbml
+│   ├── moviesdb.dbml (This information is considered proprietary by the owner, so I had to delete it.)
 │   ├── moviesdb.md
 │   └── moviesdb.png
 ├── sql-basics-reference.sql

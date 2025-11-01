@@ -49,7 +49,7 @@ The schema is documented in Markdown and ER diagram format:
 
 - [Movies Database Documentation (`moviesdb.md`)](DB_schema/moviesdb.md)
 - [Database ER Diagram (`moviesdb.png`)](DB_schema/moviesdb.png)
-- DBML source: `DB_schema/moviesdb.dbml`
+- DBML source: `DB_schema/moviesdb.dbml` (This information is considered proprietary by the owner, so I had to delete it.)
 
 This structure allows readers to understand table relationships, data types, ENUMs, and constraints without exposing actual data.
 
